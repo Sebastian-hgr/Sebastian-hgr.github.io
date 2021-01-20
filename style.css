@@ -1,0 +1,146 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-image: url("./images/car-background.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    box-sizing: border-box;
+    border: none;
+}
+
+/*.mediaViewInfo {
+    --web-view-name: Web 1920 – 1;
+    --web-view-id: Web_1920__1;
+    --web-scale-on-resize: true;
+    --web-enable-deep-linking: true;
+}*/
+
+/* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: none;
+}*/
+
+/*#pexels-mike-3729464 {
+    position: absolute;
+    width: 1920px;
+    height: 1080px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+    /*background-image: url("images/pexels-mike-3729464.png");
+    background-size: cover;
+}*/
+
+#Rectangle_1 {
+    fill: rgba(70,70,70,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+
+.Rectangle_1 {
+    position: absolute;
+    overflow: visible;
+    width: 1920px;
+    height: 100px;
+    left: 0px;
+    top: 0px;
+}
+
+#Galerie a{
+    text-decoration: none;
+    left: 1697px;
+    top: 20px;
+    position: absolute;
+    overflow: visible;
+    width: 164px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 175%;
+    color: rgba(255,255,255,1);
+}
+
+#Galerie a:hover{
+    text-decoration: underline;
+    color: orange;
+    cursor: pointer;
+}
+
+#Galerie a:visited{
+    color: red;
+}
+
+/*#Home {
+    left: 1505px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 143px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 53px;
+    color: rgba(255,255,255,1);
+    text-transform: capitalize;
+}*/
+
+#Home a{
+    text-decoration: none;
+    left: 1505px;
+    top: 20px;
+    position: absolute;
+    overflow: visible;
+    width: 143px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 175%;
+    color: rgba(255,255,255,1);
+    text-transform: capitalize;
+}
+
+#Home a:hover{
+    text-decoration: underline;
+    color: orange;
+    cursor: pointer;
+}
+
+#Home a:active{
+    border-bottom: orange;
+}
+
+#Sebastian_Hager {
+    left: 150px;
+    top: 20px;
+    position: absolute;
+    overflow: visible;
+    width: 181px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 175%;
+    color: rgba(255,255,255,1);
+}
+
+#blank-profile-picture-973461__ {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 50px;
+    top: 15px;
+    overflow: visible;
+}
